@@ -1,0 +1,12 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+chromadb
+faiss-cpu
+groq
+langchain-groq
+sentence_transformers
+langchain-huggingface
+bs4
