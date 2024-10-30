@@ -11,7 +11,7 @@
 
 ## Demo
 
-[Link to live demo](#) (You can add your demo link here)
+[Link to live demo](#) (https://web-query-app.streamlit.app/)
 
 ## Installation
 
