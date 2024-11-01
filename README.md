@@ -10,7 +10,7 @@
 - Fast and efficient processing using advanced embeddings and retrieval methods.
 
 ## Demo
-
+Website is live to use at: 
 [Link to live demo](#) (https://web-query-app.streamlit.app/)
 
 ## Installation
